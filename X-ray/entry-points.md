@@ -4,7 +4,7 @@
 
 ---
 
-## Protocol Flow Paths
+## Protocol Flow Paths 
 
 ### Setup
 
@@ -180,7 +180,7 @@
 | Value flow | none |
 | Reentrancy guard | no |
 
-### `Midnight.updatePosition()`
+### `Midnight.updatePosition()` 
 
 | Aspect | Detail |
 |--------|--------|
